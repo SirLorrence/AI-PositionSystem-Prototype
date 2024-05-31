@@ -1,5 +1,5 @@
 # AI Positioning System Prototype
-I created my own sudo environment query system to get a more dynamic positioning for enemy AI agents. I made it so that I can easily customize and add to get different "positioning behaviors." More Information to come and will be posted on my [website](https://www.laurencesadler.com/).
+I created my own sudo environment query system to get a more dynamic positioning for enemy AI agents. I made it so that I can easily customize and add to get different "positioning behaviors." More Information to come and will be posted on my [website](https://laurencesadler.com/projects/positioning-system-prototype/).
 
 ## Preview
 <p align="center">
